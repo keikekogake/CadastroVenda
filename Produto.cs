@@ -20,6 +20,25 @@ namespace CadastroVendaPOO
             this.preco = preco;
         }
 
-        
+        public int Id
+        {
+            get {return id;}
+            set {id = value;}
+        }
+        public string NomeProduto
+        {
+            get {return nomeproduto;}
+            set {nomeproduto = value;}
+        }
+        public string Descricao
+        {
+            get {return descricao;}
+            set {descricao = value;}
+        }
+        public double Preco
+        {
+            get {return preco;}
+            set {preco = value;}
+        }
     }
 }
