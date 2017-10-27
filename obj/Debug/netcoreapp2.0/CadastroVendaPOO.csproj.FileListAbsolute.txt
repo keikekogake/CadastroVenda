@@ -1,0 +1,10 @@
+/home/keike/Documents/code_exp/POO/CadastroVendaPOO/bin/Debug/netcoreapp2.0/CadastroVendaPOO.deps.json
+/home/keike/Documents/code_exp/POO/CadastroVendaPOO/bin/Debug/netcoreapp2.0/CadastroVendaPOO.runtimeconfig.json
+/home/keike/Documents/code_exp/POO/CadastroVendaPOO/bin/Debug/netcoreapp2.0/CadastroVendaPOO.runtimeconfig.dev.json
+/home/keike/Documents/code_exp/POO/CadastroVendaPOO/bin/Debug/netcoreapp2.0/CadastroVendaPOO.dll
+/home/keike/Documents/code_exp/POO/CadastroVendaPOO/bin/Debug/netcoreapp2.0/CadastroVendaPOO.pdb
+/home/keike/Documents/code_exp/POO/CadastroVendaPOO/obj/Debug/netcoreapp2.0/CadastroVendaPOO.csproj.CoreCompileInputs.cache
+/home/keike/Documents/code_exp/POO/CadastroVendaPOO/obj/Debug/netcoreapp2.0/CadastroVendaPOO.AssemblyInfoInputs.cache
+/home/keike/Documents/code_exp/POO/CadastroVendaPOO/obj/Debug/netcoreapp2.0/CadastroVendaPOO.AssemblyInfo.cs
+/home/keike/Documents/code_exp/POO/CadastroVendaPOO/obj/Debug/netcoreapp2.0/CadastroVendaPOO.dll
+/home/keike/Documents/code_exp/POO/CadastroVendaPOO/obj/Debug/netcoreapp2.0/CadastroVendaPOO.pdb
